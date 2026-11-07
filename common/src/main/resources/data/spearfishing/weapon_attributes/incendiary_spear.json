@@ -1,29 +1,3 @@
 {
-  "parent": "bettercombat:spear",
-  "attributes": {
-    "pose": "",
-    "attacks": [
-      {
-        "hitbox": "FORWARD_BOX",
-        "damage_multiplier": 1,
-        "angle": 0,
-        "upswing": 0.5,
-        "animation": "spearfishing:spear_stab",
-        "swing_sound": {
-          "id": "bettercombat:spear_stab"
-        },
-        "trail_particles": [
-          {
-            "particle_type": "stab",
-            "x_addition": 0.0,
-            "y_addition": -0.13,
-            "z_addition": 0.2,
-            "local_yaw": 0.0,
-            "pitch_addition": 0.0,
-            "roll_set": 0.0
-          }
-        ]
-      }
-    ]
-  }
+  "parent": "bettercombat:spear"
 }

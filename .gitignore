@@ -27,3 +27,5 @@ runs
 # remove this line once permission is granted
 # https://github.com/ZsoltMolnarrr/BetterCombat/issues/626
 common/src/main/resources/assets/spearfishing/player_animations/spear_stab.json
+common/src/main/resources/data/spearfishing/weapon_attributes/incendiary_spear.updated.json
+common/src/main/resources/data/spearfishing/weapon_attributes/wooden_spear.updated.json
