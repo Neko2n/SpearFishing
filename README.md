@@ -12,13 +12,13 @@ Craft a **Pike** with 3 sticks in a crafting grid. Pikes are simple throwing wea
 
 Pikes do very little damage to normal mobs, and are very slow to swing. Don't expect to throw one at a Zombie and take it down in one hit. However, pikes do **twice as much damage** to fish and squids! This instantly kills most fish, leading into the next feature of the pike:
 
-### Kebobs
+### Kebabs
 
 Thrown pikes have a special function when they kill a mob. **The mob's body and its loot will stick to the pike!** Throw a pike at a salmon and watch it carry the salmon gracefully to the ocean floor, where you can easily go pick up your spoils.
 
 You can also throw pikes at any dropped items! Items hit by a pike will stick to it and be carried, just like the loot from mobs you kill. Have your friend throw an apple up into the air and try to spear it! Deliver items across long distances! Get items from hard-to-reach places! It's pretty fun.
 
-The "kebob" mechanic pairs perfectly with the **loyalty** enchantment, which can now also be applied to pikes. Grab loot with your pike and watch it return to you with the loot in tow. Loot goblins have never had it this easy.
+The "kebab" mechanic pairs perfectly with the **loyalty** enchantment, which can now also be applied to pikes. Grab loot with your pike and watch it return to you with the loot in tow. Loot goblins have never had it this easy.
 
 ### Customization
 
@@ -27,7 +27,7 @@ The mod features extensive customization options, both through configuration fil
 The following data is tag-driven:
 - Entities which take extra damage from pikes (spearfishing/tags/entity/spear_prey.json)
   - By default, it's a lot of fish.
-- Items which are classified as "spears", granting bonus damage against fish and the "kebob" mechanic (spearfishing/tags/item/spears.json)
+- Items which are classified as "spears", granting bonus damage against fish and the "kebab" mechanic (spearfishing/tags/item/spears.json)
   - By default, this just contains the pike. If you want tridents to have spearfishing capabilities, add them to this tag.
  
 The mod features two configuration files:
