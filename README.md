@@ -79,7 +79,9 @@ Known issues:
 ## Links
 
 You can download the mod on Modrinth or CurseForge.
+
 Modrinth: https://modrinth.com/mod/spear-fishing
+
 CurseForge: https://curseforge.com/minecraft/mod/spear-fishing
 
 ## AI Disclosure
