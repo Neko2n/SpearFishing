@@ -30,7 +30,7 @@ The following data is tag-driven:
 - Items which are classified as "spears", granting bonus damage against fish and the "kebob" mechanic (spearfishing/tags/item/spears.json)
   - By default, this just contains the pike. If you want tridents to have spearfishing capabilities, add them to this tag.
  
-The mod features two configuration files: spearfishing-startup.toml</code>
+The mod features two configuration files:
 
 <details>
 <summary><code>spearfishing-common.toml</code></summary>
