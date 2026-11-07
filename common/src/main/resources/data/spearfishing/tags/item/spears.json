@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "spearfishing:wooden_spear",
+        {
+            "id": "spearfishing:incendiary_spear",
+            "required": false
+        }
+    ]
+}

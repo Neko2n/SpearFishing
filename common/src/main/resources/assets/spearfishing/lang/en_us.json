@@ -1,0 +1,13 @@
+{
+  "config.spearfishing.spear_durability": "Spear Durability",
+  "config.spearfishing.spear_prey_damage_multiplier": "Fish Damage Multiplier",
+  "config.spearfishing.spear_water_inertia": "Spear Water Inertia",
+  "config.spearfishing.spear_quick_pickup": "Spear Quick Pickup",
+  "config.spearfishing.fisherman_sells_spears": "Fishermen Sell Spears",
+  "item.spearfishing.wooden_spear": "Pike",
+  "item.spearfishing.incendiary_spear": "Incendiary Pike",
+  "entity.spearfishing.thrown_spear": "Thrown Spear",
+  "sounds.spearfishing.spear.throw": "Spear thrown",
+  "sounds.spearfishing.spear.hit": "Spear hits",
+  "sounds.spearfishing.spear.hit_ground": "Spear hits ground"
+}

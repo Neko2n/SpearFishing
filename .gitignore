@@ -22,3 +22,8 @@ build
 eclipse
 run
 runs
+
+# adapted Better Combat animation
+# remove this line once permission is granted
+# https://github.com/ZsoltMolnarrr/BetterCombat/issues/626
+common/src/main/resources/assets/spearfishing/player_animations/spear_stab.json

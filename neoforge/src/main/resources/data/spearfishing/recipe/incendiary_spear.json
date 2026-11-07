@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "nomansland"
+    }
+  ],
+  "type": "spearfishing:crafting_transmute_shapeless",
+  "category": "equipment",
+  "source": {
+    "item": "spearfishing:wooden_spear"
+  },
+  "ingredients": [
+    {
+      "item": "nomansland:resin_oil_bottle"
+    }
+  ],
+  "result": {
+    "id": "spearfishing:incendiary_spear",
+    "count": 1
+  }
+}

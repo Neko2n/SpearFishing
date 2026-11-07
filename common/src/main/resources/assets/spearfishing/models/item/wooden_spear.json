@@ -1,0 +1,14 @@
+{
+    "parent": "spearfishing:item/spear_in_hand",
+    "textures": {
+        "layer0": "spearfishing:item/wooden_spear"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "spearfishing:throwing": 1
+            },
+            "model": "spearfishing:item/wooden_spear_throwing"
+        }
+    ]
+}

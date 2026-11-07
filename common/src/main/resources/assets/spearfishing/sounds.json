@@ -1,0 +1,28 @@
+{
+    "spear_throw": {
+        "subtitle": "sounds.modpack.spear.throw",
+        "sounds": [
+            {
+                "name": "modpack:item/spear/throw",
+                "volume": 0.8
+            }
+        ]
+    },
+    "spear_hit": {
+        "subtitle": "sounds.modpack.spear.hit",
+        "sounds": [
+            "minecraft:item/trident/pierce1",
+            "minecraft:item/trident/pierce2",
+            "minecraft:item/trident/pierce3"
+        ]
+    },
+    "spear_hit_ground": {
+        "subtitle": "sounds.modpack.spear.hit_ground",
+        "sounds": [
+            "minecraft:random/bowhit1",
+            "minecraft:random/bowhit2",
+            "minecraft:random/bowhit3",
+            "minecraft:random/bowhit4"
+        ]
+    }
+}

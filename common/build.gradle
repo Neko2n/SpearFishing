@@ -21,6 +21,8 @@ dependencies {
     // fabric and neoforge both bundle mixinextras, so it is safe to use it in common
     compileOnly group: 'io.github.llamalad7', name: 'mixinextras-common', version: '0.3.5'
     annotationProcessor group: 'io.github.llamalad7', name: 'mixinextras-common', version: '0.3.5'
+    // NeoForge's ModConfigSpec for use in common; NeoForge ships it natively, Fabric gets it from Forge Config API Port
+    compileOnly "fuzs.forgeconfigapiport:forgeconfigapiport-common-neoforgeapi:${forge_config_api_port_version}"
 }
 
 configurations {
@@ -39,3 +41,9 @@ artifacts {
     commonResources sourceSets.main.resources.sourceDirectories.singleFile
 }
 
+repositories {
+    mavenCentral()
+    flatDir {
+        dir 'libs'
+    }
+}

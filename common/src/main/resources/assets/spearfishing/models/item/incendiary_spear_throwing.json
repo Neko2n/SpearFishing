@@ -1,0 +1,6 @@
+{
+    "parent": "spearfishing:item/spear_throwing",
+    "textures": {
+        "layer0": "spearfishing:item/incendiary_spear"
+    }
+}
